@@ -1,3 +1,7 @@
+.main {
+  width: 1440px;
+  height:12228px;
+}
 .one {
   width: 1440px;
   height: 1024px;
@@ -1193,16 +1197,17 @@ left: 1000px
   }
   .b19 {
     font-size: 150px;
+    width:500px;
     color: white;
     position: relative;
-    top: 665px;
-    left: 150px;
+    top: 505px;
+    left: 180px;
     transform: rotate(20deg);
   }
   .f102 {
     position: absolute;
     width: 60%;
-    height: 1024px;
+    height: 900px;
     left: 640px;
     top: 120px;
   }
@@ -1312,6 +1317,12 @@ left: 1000px
   height: 327px;
   top:-482px;
 }
+ .premiav1 {
+   position: relative;
+   width: 728px;
+   height: 327px;
+
+ }
 .premiavral1 {
   font-size: 63px;
   color: #A9FF66;
